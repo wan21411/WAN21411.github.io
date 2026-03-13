@@ -16,6 +16,6 @@ hasCJKLanguage = false
 disqusShortname = "cc"
 
 [pagination]
-    pagerSize = 8
+    pagerSize = 10
 
 
