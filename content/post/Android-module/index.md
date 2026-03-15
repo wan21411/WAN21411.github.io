@@ -24,7 +24,7 @@ Android的四大组件包括：Activity（活动）、Server（服务）、Broad
 ## Activity(活动)
 
 ### 1.什么是Activity
-Activity通俗来讲就是用户所看到每一个页面，是Android应用中用来展示用户界面的组件，我们可以通过它来进行应用程序的交互。
+    Activity通俗来讲就是用户所看到每一个页面，是Android应用中用来展示用户界面的组件，我们可以通过它来进行应用程序的交互。
 
 Activity可以想象成手机的每一个“页面”。比如当你打开一个App时，你看到的第一个界面就是一个Activity，这时你点击某一个按钮跳转到另一个界面就是另一个Activity。每一个Activity都是一个独立的界面，负责用户的交互和展示内容。
 
